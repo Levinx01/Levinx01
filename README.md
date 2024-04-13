@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Applying for Uni(s) recently… What hard days…
+#### I'm currently a graduate student in the field of EE. My research interests are in embodied AI and LLM+Robotics.
 <!--
 **Levinx01/Levinx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
