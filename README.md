@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm currently a graduate student in the field of EE. My research interests are in 3D Vision and embodied AI.
+#### I'm currently a master student in the field of EE. My research interests are in 3D Vision and embodied AI.
 <!--
 **Levinx01/Levinx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
