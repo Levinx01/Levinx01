@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 #### I'm currently a master student in the field of EE. My research interests are in 3D Vision and embodied AI.
 <!--
